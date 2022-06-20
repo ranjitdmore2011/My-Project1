@@ -1,3 +1,2 @@
 # My-Project1
-This is my first project
-https://ranjitdmore2011.github.io/My-Project1/
+https://github.com/ranjitdmore2011/My-Project1.git
